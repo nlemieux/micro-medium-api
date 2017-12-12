@@ -10,7 +10,6 @@ const graphiql = endpointURL =>
     title
     firstPublishedAt
     url
-    subtitle
   }
   user(username: $username) {
     username
